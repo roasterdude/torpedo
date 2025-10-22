@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+   <!--
+      The Cigar Concierge
+      Author:Charles Weber 
+      Date:3/19/2017   
+
+      Filename:         history.htm
+      Supporting files: cigar.css
+
+   -->
+
+      <meta charset="UTF-8" />
+      <title>The Cigar Concierge History of Cigars</title>
+      <script src="modernizr-1.5.js"></script>
+
+      <link href="cigar2.css" rel="stylesheet" />
+
+   </head>
+
+   <body>
+    <header>
+         <img src="pics/cigar-side1.jpg" width="650" height="85"  alt="The Cigar Concierge Page" />
+         <h6>The afficionado's meeting place for everything cigars</h6><h2>The Cigar Concierge</h2> 
+        
+      </header>
+        <nav class="leftNAV">
+            <ul>
+               <li><a href="cigar.htm">Home</a></li>
+               <li><a href="history.htm">History</a></li>
+               <li><a href="sizes.htm">Sizes</a></li>
+               <li><a href="pairing.htm">Pairings</a></li>
+               <li><a href="howto.htm">How To</a></li>
+              <li><a href="events.htm">Events</a></li>
+              <li><a href="rolling.htm">Rolling</a></li>
+       
+           </ul>
+        </nav>
+
+      <section id="welcome">
+          <article>
+         <h1>The Cigar Concierge History of Cigars</h1>
+        <h4>The afficionado's meeting place for everything cigars. </h4>
+         <p>The origins of cigar smoking are still unknown. In Guatemala, 
+             a ceramic pot dating back to the tenth century features a Mayan 
+             smoking tobacco leaves tied together with a string. Sikar, the term 
+             for smoking used by the Maya, may have inspired the name cigar.
+             
+          </p>
+          </article>
+      </section>
+
+
+     <figure>
+         <iframe width="540" height="350" src="https://www.youtube.com/embed/uMZPb9OOxyg" frameborder="1px" ></iframe>
+        
+
+         <figcaption>The Complex and Interesting History of the Cigar. <cite>youtube.com</cite></figcaption>
+      </figure>
+
+      <section id="more">
+        <article>
+
+        <h4>All premium cigars are hand made.</h4>
+    
+         <p>
+             Boxes of hand-rolled cigars bear the phrase totalmente a mano (totally by hand) 
+             or hecho a mano (made by hand). These premium hand-rolled cigars are significantly 
+             different from the machine-made cigars sold in packs at drugstores or gas stations. 
+             Since the 1990s there has been severe contention between producers and aficionados of 
+             premium handmade cigars and cigarette manufacturing companies that create machine-made cigars.
+    </p><p>
+             In 1869, Spanish cigar manufacturer Vicente Martinez Ybor moved his Principe de Gales (Prince of Wales) 
+             operations from the important cigar manufacturing center of Havana, Cuba to Key West, Florida to escape 
+             the turmoil of the Ten Years' War. Other manufacturers followed, and Key West became another important 
+             cigar manufacturing center. 
+        </p><p>     
+             In 1885, Ybor moved again, buying land near the then-small city of Tampa, 
+             Florida and building the largest cigar factory in the world at the time[8] in the new company town of 
+             Ybor City. Friendly rival and Flor de Sánchez y Haya owner Ignacio Haya built his own factory nearby 
+             in the same year, and many other cigar manufacturers soon followed, especially after an 1886 fire 
+             that gutted much of Key West. Thousands of Cuban and Spanish tabaqueros came to the area from 
+             Key West, Cuba and New York to produce hundreds of millions of cigars annually. Local output 
+             peaked in 1929, when workers in Ybor City and West Tampa rolled over 500,000,000 "clear Havana" 
+             cigars, earning the town the nickname "Cigar Capital of the World".
+          </p>
+        </article>
+          </section>
+
+
+
+
+<aside id="woman">
+         <h1><img src="pics/woman19.jpg" width="185"  alt="Picture of woman smoking a cigar" /></h1>
+
+      </aside>
+
+
+ <footer>
+         <nav>
+            <ul>
+               <li><a href="cigar.htm">Home</a></li>
+               <li><a href="history.htm">History</a></li>
+               <li><a href="sizes.htm">Sizes</a></li>
+               <li><a href="pairing.htm">Pairings</a></li>
+               <li><a href="howto.htm">How To</a></li>
+              <li><a href="events.htm">Events</a></li>
+              <li><a href="rolling.htm">Rolling</a></li>
+      
+           </ul>
+        </nav>
+
+
+
+</footer>
+
+   </body>

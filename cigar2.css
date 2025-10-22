@@ -1,0 +1,451 @@
+/*
+   The Cigar Concierge
+      Author:Charles Weber 
+      Date:3/19/2017   
+
+   Filename:         cigar2.css
+   Supporting Files: cigar.htm, history.htm, sizes.htm, pairing.htm, events.htm, rolling.htm, howto.htm
+
+*/
+/* Styles to be used for print displays */
+@page {
+   size: 8.5in 11in portrait;
+   margin: 0.5in;
+}
+
+/* Hide page elements that will not be printed */
+@media print{
+    nav, header, footer,
+    .no-print
+    {
+        display: none !important;
+        height: 0;
+    }
+    .no-print, .no-print * {
+        display: none !important;
+        height: 0;
+    }}
+
+/*  HTML Styles                */
+
+ html {
+    /*height: 100%;*/
+    max-width: 900px;
+
+} 
+
+
+/* Body Styles */
+
+body {
+   background-color:black;
+   background-image: url("pics/cigar-side-burning1-left.jpg");
+
+   background-repeat: round no-repeat;
+    background-position: 0px 99%; 
+   background-attachment: scroll;
+   width: 90%;
+   min-width: 500px;
+   max-width: 900px;
+
+   font-family: Verdana, Geneva, sans-serif;
+   font-weight: normal;
+   margin: 0px;
+   padding-bottom: 140px;
+   color: white;
+}
+
+/* Header Styles */
+
+header {
+    max-width: 850px;
+   position: absolute;
+    margin-left: 2%;
+   top: 10px;
+   left: 0px;
+   border-bottom: 2px solid white;
+   
+   width: 90%;
+   height: 90px;
+   }
+
+   header h2 { 
+    text-align: right;
+   position: absolute; 
+   top: 40px; 
+   right: 0px;
+   width: 100%; 
+}
+
+    header h6 {
+    position: absolute; 
+    text-align: left;
+   top: 49px; 
+   left: 0px;
+   width: 100%;    
+    }
+
+/* Styles for the schedule table */
+
+table.sizestable {
+    border: 10px outset rgb(0, 255, 0);
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.0em;
+    width: 100%;
+}
+    table.sizestable th, table.sizestable td {
+        border: 1px solid grey;
+    }
+    
+/* Table Header Style */
+
+    table.sizestable thead {
+        background-color: rgba(11, 255,111, 0.9);
+        color: white;
+        color: rgba(255, 255, 255, 1.5);
+
+    }
+
+    table.sizestable thead tr {
+        height: 40px;
+    }
+
+/* Styles for the first column */
+
+    table.sizestable col.firstCol {
+        background-color: rgb(115, 115, 153);
+        width: 30%;
+
+    }
+
+/* Styles for the remaining columns */
+
+    table.sizestable col.inches {
+        background-color: rgba(115, 115, 115, 0.5);
+        width: 20%;
+    }
+
+    table.sizestable col.metric {
+        background-color: rgba(115, 115, 67, 0.8);
+        width: 45%;
+    }
+
+/* Styles for the table caption */
+
+table.sizestable caption {
+    caption-side: bottom;
+    text-align: right;
+}
+
+
+
+/* Section Styles */
+
+section#cigarsizes {
+    clear: left;
+    
+   width: 70%;
+   margin-top: 25px;
+   margin-left: 195px;
+   padding-bottom: 25px;
+}
+
+section#welcome {
+   float: left;
+   width: 70%;
+   margin-top: 125px;
+   margin-left: 195px;
+   border-bottom: 2px solid grey;
+}
+
+section#welcome article p{
+font-size: .8em;
+}
+
+section#more {
+   float: left;
+   width: 70%;
+   margin-top: 15px;
+   margin-left: 195px;
+   border-bottom: 2px solid grey;
+}
+
+section#more article {
+    font-size: .8em;
+
+}
+
+section#picbox {
+    background-image: linear-gradient(grey, black);
+   float: center;
+   width: 100%;
+   margin-top: 15px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+section#howto {
+   float: left;
+   width: 70%;
+   margin-top: 1px;
+   margin-left: 195px;
+   border-bottom: 2px solid grey;
+}
+
+
+section#main {
+   float: left;
+   width: 70%;
+   margin-top: 10px;
+    margin-left: 195px;
+    border-bottom: 2px solid grey;
+}
+
+section#main article {
+    font-size: .9em;
+}
+
+/*  Section main, two column paragraph layout  */
+
+section#main p {
+    -moz-column-count: 2;
+    -webkit-column-count: 2;
+    column-count: 2;
+
+    -moz-column-gap: 20px;
+    -webkit-column-gap: 20px;
+    column-gap: 20px;
+
+    -moz-column-rule: 2px solid rgb(0, 255, 0);
+    -webkit-column-rule: 2px solid rgb(0, 255, 0);
+    column-rule: 2px solid rgb(0, 255, 0);
+}
+
+
+/* Figure Styles */
+
+figure {
+background-image: linear-gradient(grey, black);
+   width: 550px;
+   text-align: center;
+   border: 1px solid rgb(51, 51, 51);
+   padding: 10px 0px;
+   margin: 20px 20px;
+   float: left;
+   margin-left: 195px;
+}
+
+figure figcaption {
+   font-size: 0.8em;
+   color: white;
+}
+
+/* Aside styles */
+aside#woman {
+   position: absolute;
+   top: 475px;
+   left: 1px;
+   margin-left: 5px;
+
+   width: 190px;
+}
+
+/* How To Article Styles */
+
+#howto article {
+   float: left;
+   width: 100%;
+   margin-left: 0px;
+}
+
+#howto article hgroup {
+  background-image: linear-gradient(grey, black);
+
+   -o-background-size: contain;
+   -moz-background-size: contain;
+   -webkit-background-size: contain;
+   background-size: contain;
+
+   color: rgb(145, 98, 78);
+   color: goldenrod;
+
+   height: 90px;
+   text-indent: 10px;
+}
+
+#howto article hgroup h1 {
+   font-size: 135%;
+   letter-spacing: 2px;
+}
+
+#howto article hgroup h2 {
+   font-size: 105%;
+}
+
+#howto article p {
+   font-size: 80%;
+   margin: 10px;
+}
+
+#howto article ul li {
+   font-size: 80%;
+   margin: 15px 25px;
+}
+
+#howto article ul li strong {
+   font-weight: bold;
+}
+
+/*Story Article Styles*/
+
+#story article {
+   float: left;
+   width: 70%;
+   margin-left: 195px;
+}
+
+#story article hgroup {
+   background-image: linear-gradient(grey, black);
+
+   -o-background-size: contain;
+   -moz-background-size: contain;
+   -webkit-background-size: contain;
+   background-size: contain;
+
+   color: rgb(145, 98, 78);
+   color: goldenrod;
+
+   height: 90px;
+   text-indent: 10px;
+}
+
+#story article hgroup h1 {
+   font-size: 135%;
+   letter-spacing: 2px;
+}
+
+#story article hgroup h2 {
+   font-size: 105%;
+}
+
+#story article p {
+   font-size: 80%;
+   margin: 10px;
+}
+
+#story article ul li {
+   font-size: 80%;
+   margin: 15px 25px;
+}
+
+#story article ul li strong {
+   font-weight: bold;
+}
+
+
+
+/* Left Navigation List  */
+
+nav.leftNAV {
+   position: absolute;
+   top: 150px;
+   left: 5px;
+   margin-left: 5px;
+   width: 150px;
+}
+
+nav.leftNAV a {
+   border-bottom: 1px solid rgb(182, 182, 92);
+   color: rgb(182, 182, 92);
+   display: block;
+   line-height: 2.2em;
+}
+
+nav.leftNAV a:hover {
+   background-color: rgb(105, 96, 87);
+   background-color: rgba(255, 255, 255, 0.3);
+}
+
+/* Pairings Article Navigation List  */
+
+nav.pairingsNAV {
+    padding-bottom: 20px;
+}
+
+nav.pairingsNAV ul li {
+   display:  block;
+   float:  left;
+   width: 12%;
+   text-align: center;
+}
+
+nav.pairingsNAV ul  li a {
+   color: white;
+   font-size: 0.7em;
+}  
+
+
+
+ /* unvisited link */
+a:link {
+    color: seagreen;
+}
+
+/* visited link */
+a:visited {
+    color: lightgreen;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+/* selected link */
+a:active {
+    color: deepskyblue;
+}
+
+
+/* Footer Styles */
+a:link {
+    color: white;
+}
+
+footer {
+    position: scroll;
+    bottom: 40px;
+   margin-left: 8%;
+   width: 100%;
+   border-top: 2px solid white;
+   padding-bottom: 25px;
+   clear: both;
+}
+
+footer nav ul li {
+   display:  block;
+   float:  left;
+   width: 10%;
+   text-align: center;
+   padding-left: 5px;
+}
+
+footer nav ul  li a {
+   color: white;
+   font-size: 0.7em;
+}
+
+footer author {
+   color: rgb(182, 182, 92);
+   font-size: 0.7em;
+   display: block;
+   float:  center;
+   text-align: center;
+   padding-top: 30px;
+}
+
+
+
+

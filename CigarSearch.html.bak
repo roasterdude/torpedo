@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cigar Search - Premium Cigar Reviews and Information - The Torpedo Lounge</title>
+	<script src="modernizr-1.5.js"></script>
+    <meta name="description" content="Explore in-depth cigar reviews and information about popular cigar brands and series. Find detailed tasting notes and recommendations.">
+    <meta name="keywords" content="cigar reviews, premium cigars, cigar information, cigar brands, cigar series">
+    <meta name="author" content="RD">
+    <meta name="robots" content="index, follow">
+    <link rel="stylesheet" href="cigar2.css">
+</head>
+
+   <body>
+    <header>
+<img src="pics/cigar-side-burning1-left-trim.jpg" width="650" height="75"  alt="The Torpedo Lounge" />
+        <h6>The afficionado's meeting place for everything cigars</h6><h2>The Torpedo Lounge</h2> 
+        
+      </header>
+        <nav class="leftNAV">
+            <ul>
+               <li><a href="cigar.htm">Home</a></li>
+               <li><a href="history.htm">History</a></li>
+               <li><a href="sizes.htm">Sizes</a></li>
+               <li><a href="pairing.htm">Pairings</a></li>
+               <li><a href="howto.htm">How To</a></li>
+              <li><a href="events.htm">Events</a></li>
+              <li><a href="rolling.htm">Rolling</a></li>
+              <li><a href="CigarSearch.html">Cigar Search</a></li>
+              <li><a href="CigarSearch2.html">CigarSearch2</a></li>				  
+           </ul>
+        </nav>
+
+      <section id="welcome">
+        <article>
+         <h1>Cigar Search</h1>
+
+          </p>
+          </article>
+      </section>
+      <section id="story">
+         <article>
+	  
+    		<h1> Cigar Search</h1>
+            <ul>
+                <li><a href="https://searchtoggle.com/search?q=Arturo+Fuente+cigars" target="_blank">Arturo Fuente</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Aging+Room+cigars" target="_blank">Aging Room</a></li>
+                <li><a href="https://searchtoggle.com/search?q=AJ+Fernandez+cigars" target="_blank">AJ Fernandez</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Alec+%2526+Bradley+cigars" target="_blank">Alec & Bradley</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Alec+Bradley+cigars" target="_blank">Alec Bradley</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Argyle+cigars" target="_blank">Argyle</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Ashton+cigars" target="_blank">Ashton</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Asylum+cigars" target="_blank">Asylum</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Ave+Maria+cigars" target="_blank">Ave Maria</a></li>
+                <li><a href="https://searchtoggle.com/search?q=AVO+cigars" target="_blank">AVO</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Baccarat+cigars" target="_blank">Baccarat</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Brick+House+cigars" target="_blank">Brick House</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Buffalo+Trace+cigars" target="_blank">Buffalo Trace</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Cabaiguan+cigars" target="_blank">Cabaiguan</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Cain+cigars" target="_blank">Cain</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Caldwell+cigars" target="_blank">Caldwell</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Camacho+cigars" target="_blank">Camacho</a></li>
+                <li><a href="https://searchtoggle.com/search?q=CAO+cigars" target="_blank">CAO</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Carlos+Torano+cigars" target="_blank">Carlos Torano</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Cohiba+cigars" target="_blank">Cohiba</a></li>
+				<li><a href="https://searchtoggle.com/search?q=crowned+heads+cigars" target="_blank">Crowned Heads</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Davidoff+cigars" target="_blank">Davidoff</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Deadwood+Tobacco+cigars" target="_blank">Deadwood Tobacco</a></li>
+                <li><a href="https://searchtoggle.com/search?q=diesel+cigars" target="_blank">diesel</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Don+Carlos+cigars" target="_blank">Don Carlos</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Don+Diego+cigars" target="_blank">Don Diego</a></li>
+				<li><a href="https://searchtoggle.com/search?q=Don+Tomas+cigars" target="_blank">Don Tomas</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Drew+Estate+cigars" target="_blank">Drew Estate</a></li>
+				<li><a href="https://searchtoggle.com/search?q=dunbarton+cigars" target="_blank">Dunbarton</a></li>
+                <li><a href="https://searchtoggle.com/search?q=El+Triunfador+cigars" target="_blank">El Triunfador</a></li>
+				<li><a href="https://searchtoggle.com/search?q=EP+Carrillo+cigars" target="_blank">EP Carrillo</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Espinosa+cigars" target="_blank">Espinosa</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Factory+Smokes+cigars" target="_blank">Factory Smokes</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Fausto+cigars" target="_blank">Fausto</a></li>
+				<li><a href="https://searchtoggle.com/search?q=foundation+cigars" target="_blank">Foundation</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Fratello+cigars" target="_blank">Fratello</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Fuente+Fuente+cigars" target="_blank">Fuente Fuente</a></li>
+				<li><a href="https://searchtoggle.com/search?q=Gilbert+de+Montsalvat+cigars" target="_blank">Gilbert de Montsalvat</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Gilberto+cigars" target="_blank">Gilberto</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Gilberto+Oliva+cigars" target="_blank">Gilberto Oliva</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Gran+Habano+cigars" target="_blank">Gran Habano</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Gurkha+cigars" target="_blank">Gurkha</a></li>
+                <li><a href="https://searchtoggle.com/search?q=H.+Upmann+cigars" target="_blank">H. Upmann
+                <li><a href="https://searchtoggle.com/search?q=Hamlet+cigars" target="_blank">Hamlet</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Illusione+cigars" target="_blank">Illusione</a></li>
+                <li><a href="https://searchtoggle.com/search?q=J.C.+Newman+cigars" target="_blank">J.C. Newman</a></li>
+				<li><a href="https://searchtoggle.com/search?q=Joya+de+Nicaragua+cigars" target="_blank">Joya de Nicaragua</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Kristoff+cigars" target="_blank">Kristoff</a></li>
+                <li><a href="https://searchtoggle.com/search?q=La+Aroma+de+Cuba+cigars" target="_blank">La Aroma de Cuba</a></li>
+				<li><a href="https://searchtoggle.com/search?q=La+Aurora+cigars" target="_blank">La Aurora</a></li>
+                <li><a href="https://searchtoggle.com/search?q=La+Casita+Criolla+cigars" target="_blank">La Casita Criolla</a></li>
+                <li><a href="https://searchtoggle.com/search?q=La+Flor+Dominicana+cigars" target="_blank">La Flor Dominicana</a></li>
+                <li><a href="https://searchtoggle.com/search?q=La+Galera+cigars" target="_blank">La Galera</a></li>
+                <li><a href="https://searchtoggle.com/search?q=La+Gloria+Cubana+cigars" target="_blank">La Gloria Cubana</a></li>
+                <li><a href="https://searchtoggle.com/search?q=La+Palina+cigars" target="_blank">La Palina</a></li>
+                <li><a href="https://searchtoggle.com/search?q=La+Riqueza+cigars" target="_blank">La Riqueza</a></li>
+                <li><a href="https://searchtoggle.com/search?q=La+Unica+cigars" target="_blank">La Unica</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Leaf+By+Oscar+cigars" target="_blank">Leaf By Oscar</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Liga+Privada+cigars" target="_blank">Liga Privada</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Macanudo+cigars" target="_blank">Macanudo</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Man+O'+War+cigars" target="_blank">Man O' War</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Montecristo+cigars" target="_blank">Montecristo</a></li>
+                <li><a href="https://searchtoggle.com/search?q=My+Father+cigars" target="_blank">My Father</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Nat+Sherman+cigars" target="_blank">Nat Sherman</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Nica+Libre+cigars" target="_blank">Nica Libre</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Nish+Patel+cigars" target="_blank">Nish Patel</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Nub+cigars" target="_blank">Nub</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Oliva+cigars" target="_blank">Oliva</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Padron+cigars" target="_blank">Padron</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Partagas+cigars" target="_blank">Partagas</a></li>
+				<li><a href="https://searchtoggle.com/search?q=paul+garmirian+cigars" target="_blank">Paul Garmirian</a></li>
+                <li><a href="https://searchtoggle.com/search?q=PDR+cigars" target="_blank">PDR</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Perdomo+cigars" target="_blank">Perdomo</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Plasencia+cigars" target="_blank">Plasencia</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Punch+cigars" target="_blank">Punch</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Rocky+Patel+cigars" target="_blank">Rocky Patel</a></li>
+                <li><a href="https://searchtoggle.com/search?q=RoMa+Craft+cigars" target="_blank">RoMa Craft</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Romeo+y+Julieta+cigars" target="_blank">Romeo y Julieta</a></li>
+                <li><a href="https://searchtoggle.com/search?q=San+Cristobal+cigars" target="_blank">San Cristobal</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Southern+Draw+cigars" target="_blank">Southern Draw</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Studio+Tobac+cigars" target="_blank">Studio Tobac</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Tatuaje+cigars" target="_blank">Tatuaje</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Ted's+Cigars" target="_blank">Ted's Cigars</a></li>
+				<li><a href="https://searchtoggle.com/search?q=Trinidad+cigars" target="_blank">Trinidad</a></li>
+                <li><a href="https://searchtoggle.com/search?q=VegaFina+cigars" target="_blank">VegaFina</a></li>
+				<li><a href="https://searchtoggle.com/search?q=Villiger+cigars" target="_blank">Villiger</a></li>
+				<li><a href="https://searchtoggle.com/search?q=Warped+cigars" target="_blank">Warped</a></li>
+                <li><a href="https://searchtoggle.com/search?q=Zino+cigars" target="_blank">Zino</a></li>
+              
+                
+                <!-- Add more items using the same format -->
+                <!-- ... -->
+            </ul>
+
+        </article>
+      </section>
+
+        <aside id="woman">
+         <h1><img src="pics/woman17.jpg" width="185"  alt="Picture of woman smoking a cigar" /></h1>
+
+      </aside>
+
+
+ <footer>
+         <nav class="footerNAV">
+            <ul>
+               <li><a href="cigar.htm">Home</a></li>
+               <li><a href="history.htm">History</a></li>
+               <li><a href="sizes.htm">Sizes</a></li>
+               <li><a href="pairing.htm">Pairings</a></li>
+               <li><a href="howto.htm">How To</a></li>
+              <li><a href="events.htm">Events</a></li>
+              <li><a href="rolling.htm">Rolling</a></li>
+			  <li><a href="CigarSearch.html">Search</a></li>
+              <li><a href="CigarSearch2.html">CigarSearch2</a></li>	
+           
+           </ul>
+        </nav>
+
+<br><br>
+
+ </footer>
+
+   </body>
+   </html>
